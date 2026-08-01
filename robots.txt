@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ajz1p9.bento4dyyc.site/sitemap.xml
